@@ -4,4 +4,4 @@
 
 # Frameworks
 
-openFrameworks v0.8.4
+* openFrameworks v0.8.4
